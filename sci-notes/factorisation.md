@@ -13,7 +13,7 @@ $3x^2-10x-8$
 1. The coefficient of $x$ is $3$. The constant is $-8$.
 2. Multiply the coefficient by the constant. 
 $=-24$
-3. Find the product of $-24$ that add to the middle integer $10$.
+3. Find the product of $-24$ that add to the middle integer $-10$.
 $=-12\ and +2$
 4. Replace $10x$ with these two factors.
 = $3x^2-12x+2x-8$
@@ -21,5 +21,5 @@ $=-12\ and +2$
 = $(3x^2-12x)(2x-8)$
 6. 'Bring out' the common factors, if any, of each expression.
 =$3x(x-4)+2(x-4)$
+7. The numbers that were *brought out* form their own expression, and the common expression $x-4$ forms the other.
 =$(3x+2)(x-4)$
-

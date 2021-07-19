@@ -1,0 +1,1 @@
+A **monic quadratic** expression is always in the form $x^2 + bx + c$.

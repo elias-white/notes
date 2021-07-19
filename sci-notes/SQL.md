@@ -4,8 +4,6 @@ SQL, which stands for _Structured Query Language_, is a language for interacting
  
  It's also good practice to include a semicolon at the end of your query. This tells SQL where the end of your query is!
  
-
- 
  ### `SELECT`
  
  #### `DISTINCT`
@@ -262,4 +260,4 @@ USING (id);
 The parenthesis is required.
 
 ### `CASE`
-`CASE` is what you use when you want to join a table in itself.
+`CASE` is what you use when you want to join a table with itself. This is used when you want to compare the values of a field, to other values of the same field from within the same table. 

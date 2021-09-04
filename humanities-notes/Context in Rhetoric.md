@@ -1,0 +1,1 @@
+Rhetorical transactions never take place in isolation, there is always context. Skilled rhetoricians use this context, whether it may be cultural or event-driven, current or historical, when composing rhetoric. 

@@ -1,0 +1,1 @@
+A false dichotomy (sometimes also referred to as a false dilemma) is a logical fallacy, which occurs when a limited number of options are incorrectly presented as being mutually exclusive to one another or as being the only options that exist, in a situation where that isn't the case.

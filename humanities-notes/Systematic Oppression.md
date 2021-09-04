@@ -1,0 +1,3 @@
+To [[Marilyn Frye]], systematic [[oppression]] refers to the kind of [[ oppression ]] that targets individuals as members of social groups. It is also often internalised and perpetuated unknowingly, and individuals experiencing this form of [[Oppression]] frequently run into [[ Double Binds]]. This kind of [[ oppression ]] can also be very difficult to recognise. Related: [[Frye on Oppression]]
+
+[[Marilyn Frye]] states that [[ Oppression]] is systematic, in the sense that the disadvantage or harm caused can be seen across multiple 'spheres' of work, family, legal and education to name a few. 

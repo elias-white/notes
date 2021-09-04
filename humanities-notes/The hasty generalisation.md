@@ -1,0 +1,1 @@
+A hasty generalisation is a kind of fallacy that occurs when you draw your conclusion too quickly, without providing enough supporting evidence.

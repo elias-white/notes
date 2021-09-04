@@ -1,0 +1,3 @@
+The genre of rhetoric describes the form in which the rhetoric is written or spoken in. A [[ Being a Skilled Rhetorician ]] means that you understand all the genres available to your disposal, and the effectiveness of each in any given [[Context in Rhetoric | context]]. For example, a long-form essay might be an appropriate genre in an academic context, but less so in formal business. 
+
+The genre of your rhetoric should be determined by sum of [[ Context in Rhetoric | context ]] plus [[ Intention in Rhetoric | intention]].

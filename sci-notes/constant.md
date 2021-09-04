@@ -1,0 +1,1 @@
+In [[math]], a constant is a number on its own or a standalone variable such as $x$ or $a$.  

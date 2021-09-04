@@ -1,0 +1,1 @@
+An Ad hominem fallacy occurs when the author, associated persons or supporter's character is attacked instead of the argument they support.

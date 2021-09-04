@@ -1,0 +1,5 @@
+[[ Iris Marion Young ]] disagreed with [[ Marxism ]] (see: [[Marx on Oppression]]) and the notion that these injustices can be reduced exclusively to economic structures. Rather, they argue that oppression involves symbolic injustices and misrecognition too. 
+
+[[Iris Marion Young]] builds on [[Michel Foucault]]'s conception of [[oppression]] by saying that forms of oppression can be reproduced through daily life while conforming to the normative expectations and institutional rules. This can occur unknowingly, so the individual is completely unaware that they are maintaining the unjust status quo. However, this is not to say that there are groups that do not stand to gain if states of oppression are kept. 
+
+Therefore, in order to address injustices relating to oppression -- [[Iris Marion Young]] argues that change needs to occur not only in economic institutions, but simultaneously in legal, social, political and cultural institutions as well.

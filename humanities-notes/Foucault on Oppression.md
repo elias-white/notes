@@ -1,0 +1,1 @@
+- [[ Michel Foucault ]] argues that we need to look past the dyadic relation of ruler and subject to understand the *modern* operation of power

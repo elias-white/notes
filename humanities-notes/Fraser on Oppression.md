@@ -1,0 +1,1 @@
+[[ Nancy Fraser ]] disagrees with [[ Marxism ]] (see: [[Marx on Oppression]]) and the notion that these injustices can be reduced exclusively to economic structures. Rather, they argue that oppression involves symbolic injustices and misrecognition too.

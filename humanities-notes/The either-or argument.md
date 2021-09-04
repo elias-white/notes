@@ -1,0 +1,1 @@
+The either-or argument or fallacy occurs when you reduce an argument to a choice between two diametrically opposing choices, ignoring all other possibilities. 

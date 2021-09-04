@@ -1,0 +1,1 @@
+A double bind is a dilemma where an agent is presented with two options, both resulting in negative or disadvantegeous outcomes.

@@ -1,0 +1,1 @@
+This principle states that socio-economic inequalities are to be arranged so that they are attached to offices and positions within these offices are open to all under conditions of equality of opportunity. 

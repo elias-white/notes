@@ -1,0 +1,1 @@
+Our Civil Obligations include our obligation to actively contribute to the common good. 

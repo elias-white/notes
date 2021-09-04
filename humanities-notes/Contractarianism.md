@@ -1,0 +1,1 @@
+Contractarianism refers to the political theory of authority claims that legitimate [[ Political Power | authority of government]] must derive from the consent of the governed, where the form and content of this consent derives from the idea of contract or mutual agreement.

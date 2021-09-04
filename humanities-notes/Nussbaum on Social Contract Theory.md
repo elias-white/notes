@@ -1,0 +1,3 @@
+[[Martha Nussbaum]] questions the base principles of justice [[Social Contract Theory]] employs (reciprocity of rough equals). Nussbaum argues that this theory presumes the contracting parties to be one of the same -- as citizens who live together and whose lives will be regulated by the principles as chosen, and as such often combine the following two questions that she believes should be asked seperately: 
+1. *By whom* are society's basic principles designed?
+2. *For whom* are society's basic principles designed?

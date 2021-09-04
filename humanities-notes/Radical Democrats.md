@@ -1,0 +1,1 @@
+- Radial democrats (assert the overriding value of equality)

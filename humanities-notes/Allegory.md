@@ -1,0 +1,1 @@
+An allegory is a short story, poem or picture that can be interpreted to have a hidden, usually political or moral, meaning. 

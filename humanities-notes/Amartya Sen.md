@@ -1,0 +1,1 @@
+Amartya Sen is a Nobel Prize winning economist and philosopher. He is known for his work in highlighting the inadequecies of using Gross National Product (GNP) as an indicator for citizens well-being.

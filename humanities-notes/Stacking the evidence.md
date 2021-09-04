@@ -1,0 +1,1 @@
+Stacking the evidence refers to a fallacy where only one side of the argument is presented. 

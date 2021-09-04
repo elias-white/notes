@@ -1,0 +1,1 @@
+Begging the question is a fallacy that occurs when you use the argument itself as evidence for itself. 

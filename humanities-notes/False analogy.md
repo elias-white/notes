@@ -1,0 +1,1 @@
+A false analogy is a type of[[ Informal Fallacy ]]. It states that since Item A and Item B both have Quality X in common, they must also have Quality Y in common.	

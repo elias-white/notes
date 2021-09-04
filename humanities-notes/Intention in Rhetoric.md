@@ -1,0 +1,3 @@
+A rhetoriticans intention is what he or she wants to happen as a result of their rhetoric, whether it may be emboldened beliefs in an idea or for the audience to take action in some way. 
+
+This intention is not always immediately known to the rhetorician and can be discovered throughout the exploration of the [[Subject Matter in Rhetoric | subject matter ]] and the [[The Rhetorical Triangle | writing process ]]. 

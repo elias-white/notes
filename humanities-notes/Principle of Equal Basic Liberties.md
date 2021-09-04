@@ -1,0 +1,3 @@
+The Principle of Equal Basic Liberties is the second principle of the [[Principles of Justice as Fairness]] described by [[John Rawls]] where each person is to have an equal right to the most extensive total system of basic liberties compatible with a similar system of liberty for all. 
+
+Citizens who are equally motivated and talented should have equal opportunities to hold office, influence politics, irrespective of their economic status. In addition, basic rights should never be sacrificed for other social goods such as economic productivity. 

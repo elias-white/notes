@@ -1,0 +1,3 @@
+[[Martha Nussbaum]] states she has a "Aristotelian-Marxian" conception of human beings as social, political and interdependant as opposed to the [[Liberalism#Liberelism on political persons]] conception of disembodied, rational, self-sufficient entities. Rather, that they are fulfilled by their relationships with others and who realise the good or the good life through in and through participation in their community. 
+
+[[Martha Nussbaum]] also states that we also exist in relations of dependencies with others. We may be temporarily dependant on others at certain times of our lives, say in times of temporary disabilities. 

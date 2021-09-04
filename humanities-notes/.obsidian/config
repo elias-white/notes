@@ -1,0 +1,26 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Page preview": true,
+    "Zettelkasten prefixer": false,
+    "Tag pane": true,
+    "Starred": true,
+    "Daily notes": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,1 @@
+The red herring fallacy is a fallacy that occurs when you seek to distract the audience rather than focusing on the argument itself.

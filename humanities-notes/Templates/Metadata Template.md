@@ -1,0 +1,55 @@
+- Articles
+    - Author::
+    - Topic::
+    - Tags:: #article
+    - URL::
+    - Content:: (link to saved copy in Pocket)
+    - Summary::
+- Books
+    - Author:: 
+    - Reading Status::
+    - Date Finished::
+    - Why::
+    - Tags:: #book
+    - Notes::
+- Podcast
+    - Show::
+    - Speaker(s)::
+    - Topic::
+    - Tags:: #podcast
+    - URL::
+    - Summary::
+- People
+    - Phone Number::
+    - Email::
+    - Company::
+    - Location::
+    - Birthday::
+    - Tags:: #people #wordpress #author #businessassociation #piedmontchurch #client #contractor #speaker
+- Videos
+    - Speaker:: 
+    - Tags:: #video
+    - Summary::
+    - Link or Embed::
+- Projects
+    - Due Date::
+    - Completed Date::
+    - Status::
+    - Related Goals::
+    - Success Criteria::
+    - Tags:: #project
+- Daily Pages
+    - Morning Routine
+        - Headspace
+        - Morning Pages
+        - I am grateful for...
+        - What would make today great?
+    - (fill in daily stuff here)
+    - Evening Routine
+        - Three amazing things that happened today
+            - 1. 
+            - 2. 
+            - 3. 
+        - How could I have made today better?
+        - Preview tomorrow
+        - Blink something

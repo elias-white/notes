@@ -1,0 +1,3 @@
+The cum hoc fallacy or cum hoc ergo propter hoc fallacy (also often called a correlation-causation fallacy), occurs when we interpret two events occuring at the same time (correlated) as the basis for cause and effect. 
+
+An example of the cum hoc fallacy is when a teenager wears new basketball shoes to a game. He makes many key plays during that game. It is implied that he was able to do so because he was wearing those shoes. 

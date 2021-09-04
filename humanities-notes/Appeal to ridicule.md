@@ -1,0 +1,1 @@
+  Appeal to ridicule is a fallacy that attempts to make a claim look ridiculous by mocking it or exaggerating it in a negative way. 

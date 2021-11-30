@@ -1,0 +1,1 @@
+Unstructured data is [[Schemas|schemaless]] and makes up most of the worlds data. Examples of unstructured data are photos, chat logs, sound files etc.

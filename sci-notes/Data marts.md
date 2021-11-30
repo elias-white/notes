@@ -1,0 +1,1 @@
+A Data mart is a subset of data from a parent data warehouse that is dedicated to a specific topic. For example, a business may contain a large data warehouse but several data marts representing business functions (Finance, Marketing, Sales etc.).

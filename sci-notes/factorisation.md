@@ -1,9 +1,9 @@
-In [[math]], factorisation is the process of putting an expanded expression back into brackets. 
+In [[math]], factorisation is the process of putting an expanded expression back into brackets. It can help simplify complex expressions. 
 
 ##### Factorising a [[monic quadratic]]:
 $x^2-11x+24$
-1. Find the product of two numbers that equal $24$ and andd up to $-11$. 
-2. The answer is $-3$ and $-18$.
+1. Find the product of two numbers that equal the [[constant]] $24$ and and add up to the [[coefficient]] $-11$. 
+2. The answer is $-3$ and $-8$.
 3. Therefore: $(x-3)(x-8)$
 
 We can test if it is the right answer by multiplying it back out. 

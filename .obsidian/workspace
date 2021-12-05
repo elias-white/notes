@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "c44d5039a10361ec",
+    "id": "f782e29a8313f755",
     "type": "split",
     "children": [
       {
-        "id": "cb618eaa8886715b",
+        "id": "d5a6ffc71e53d124",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "sci-notes/difference of squares.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sci-notes/difference of squares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,25 +87,35 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "23ebe8afdd43cbef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sci-notes/difference of squares.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 169.5
   },
-  "active": "cb618eaa8886715b",
+  "active": "d5a6ffc71e53d124",
   "lastOpenFiles": [
-    "monic quadratic.md",
-    "humanities-notes/Analytical Reading.md",
-    "sci-notes/monic quadratic.md",
-    "sci-notes/non-monic quadratic.md",
-    "humanities-notes/Levels of Reading.md",
-    "MyProducts - Magento.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Servsuite Hubspot Meeting.md",
-    "SQL.md"
+    "sci-notes/difference of squares.md",
+    "sci-notes/polynomial.md",
+    "sci-notes/SQL.md",
+    "sci-notes/Database Design.md",
+    "sci-notes/Assets/ELT.png",
+    "sci-notes/ELT.md",
+    "sci-notes/Data lakes.md",
+    "sci-notes/ETL.md",
+    "sci-notes/Assets/ETL.png",
+    "sci-notes/Data warehouse.md"
   ]
 }

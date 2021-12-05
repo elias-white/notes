@@ -1,0 +1,1 @@
+The process if normalisation describes dividing tables down into smaller tables and then connecting them via relationships with the goal of reducing redundancy and increasing data integrity. A [[Snowflake Schema]] is an example of a normalised [[Database Schemas | schema]].

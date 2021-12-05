@@ -1,0 +1,1 @@
+A Logical Data Model **defines** a databases tables, columns and relationships. This is in the form of database models and schemas such as [[Relational Database | relational model ]] and [[Star Schema|star schema's]]. 

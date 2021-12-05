@@ -1,7 +1,8 @@
 Database Design attempts to answer the question: *How should we organise and manage our data?*
 
 There are a few quesitons to ask (in no order of importance):
-- [[ Schemas ]]: How should my data be organised?
+- [[ Database Schemas ]]: How should my data be organised?
+- [[ Database Models ]]
 - [[ Normalisation ]]: Should my data have minimal dependency and redundancy?
 - [[ Views ]]: What joins will be done most often?
 - [[ Access Control ]]: Should all users have the same access?
@@ -14,3 +15,5 @@ The answer to these questions all depends on how the data will be used in produc
 2. [[Unstructured data]]
 3. [[Semi-structured data]]
 
+The steps to database design are:
+1. [[Database Models|Data Modelling]]

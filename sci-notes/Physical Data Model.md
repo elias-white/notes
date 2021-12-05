@@ -1,0 +1,5 @@
+-   The physical data model describes data need for a single project or application though it maybe integrated with other physical data models based on project scope.
+-   Data Model contains relationships between tables that which addresses cardinality and nullability of the relationships.
+-   Developed for a specific version of a DBMS, location, data storage or technology to be used in the project.
+-   Columns should have exact datatypes, lengths assigned and default values.
+-   Primary and Foreign keys, views, indexes, access profiles, and authorizations, etc. are defined.

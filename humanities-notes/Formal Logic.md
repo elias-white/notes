@@ -1,0 +1,2 @@
+# What is formal logic?
+Formal logic is the scientific study of truth. It seeks to define the laws that govern the relationships between the truth or falsity of different [[Propositions|propositions]].

@@ -1,4 +1,4 @@
-A word token is the physical representation  of a [[Word Type]]. It exists within space and time and can be in many forms (sound, ink, chalk, pixels etc). 
+A word token is the physical representation of a [[Word Type]]. It exists within space and time and can be in many forms (sound, ink, chalk, pixels etc). 
 
 For example, *Rose is a rose is a rose is a rose* contains 10 word tokens but only 3 word types [^fn].
 

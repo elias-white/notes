@@ -2,7 +2,7 @@ In [[math]], factorisation is the process of putting an expanded expression back
 
 ##### Factorising a [[monic quadratic]]:
 $x^2-11x+24$
-1. Find the product of two numbers that equal the [[constant]] $24$ and and add up to the [[coefficient]] $-11$. 
+1. Find the product of two numbers that equal the [[Constant]] $24$ and and add up to the [[coefficient]] $-11$. 
 2. The answer is $-3$ and $-8$.
 3. Therefore: $(x-3)(x-8)$
 
@@ -23,3 +23,4 @@ $=-12\ and +2$
 =$3x(x-4)+2(x-4)$
 7. The numbers that were *brought out* form their own expression, and the common expression $x-4$ forms the other.
 =$(3x+2)(x-4)$
+

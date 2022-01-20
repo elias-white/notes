@@ -143,5 +143,62 @@ matcher.close() # Done with the matcher function call
 ```
 A coroutine *consumes* data while a generator *produces* data.
 
+### Objects and Classes
+- The `dir()` function lists available methods for an object. 
+- 	The first argument in every method refers to the object itself, usually named `self`
+- Methods with leading and trailing underscores such as `__init__` are special methods 
+```python
+class Stack(object): # declares Stack class to be of type Object
+	# 
+	def __init__(self): self.stack = [ ]
+	def push(self,object): 
+		self.stack.append(object)
+	def pop(self):
+		return self.stack.pop()
+	def length(self):
+		return len(self.stack)
+```
+- Normally, all of the methods defined within a class apply only to instances of that class (that is, the objects that are created). However, different kinds of methods can be defined such as static methods familiar to C++ and Java programmers.
+```python
+class EventHandler(object): 
+	@staticmethod
+	def dispatcherThread(): 
+		while (1):
+	# Wait for requests ...
+```
+- In this case, `@staticmethod` declares the method that follows to be a static method. `@staticmethod` is an example of using an a decorator.
+
+
+### Exceptions
+```python
+try:
+	f = open("file.txt", "r")
+except IOError as e:
+	print(e)
+...
+# you can manually raise an en exception yourself
+raise SyntaxError
+```
+- Replace `IOError` with the error you want to monitor for.
+- You can also define your own custom exceptions
+
+### Modules
+To view the functions of a `.py` file, you can use the `dir()` function.
+```python
+# authentication.py
+def login:
+	return "Logged in!"
+
+# main.py
+import authentication as auth
+auth.login()
+# you can also import specific definitions
+from authentication import login
+login()
+# to load all functions directly into namespace
+from authentication import *
+login()
+```
+
 [^1]: It’s [possible for format strings to access arbitrary variables in your program](http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/).
 
